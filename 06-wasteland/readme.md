@@ -1,6 +1,6 @@
 # wasteland!
 
-![image](./static/images/01.png) 
+read [poem](./poem.md)
 
 ## پیش از حل مساله
 
