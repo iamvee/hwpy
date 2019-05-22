@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.main-content p {
+ margin-bottom:1em;
+ direction: rtl;
+}
