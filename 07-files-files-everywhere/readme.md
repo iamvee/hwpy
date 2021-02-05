@@ -1,7 +1,7 @@
 # Files, Files Every Where!
 
 
-فولدر `files.zip` را unzip کنید [files.zip](./static/files/files.zip)
+فولدر `files-new.zip` را unzip کنید [files-new.zip](./static/files/files-new.zip)
 
 این فولدر حاوی ۴۰۰۰ فایل با پسوند `.txt` است. نام هر فایل عددی ۸ رقمی است و در صورتی که فایل را باز کنید خواهید دید که متن  هر فایل عدد ۸ رقمی دیگری است. به عبارت دیگر متن هر فایل  به نام `parent` خود اشاره می‌کند. در صورتی که یک فایل `parent` نداشته باشد، متن داخل آن فایل عدد 0 خواهد بود. 
 
